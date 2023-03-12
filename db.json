@@ -1,0 +1,131 @@
+{
+  "user": [
+    {
+      "id": "Rishi",
+      "name": "Rishiraj Bhowmik",
+      "password": "Sneha@123",
+      "email": "rishirajbhowmik5@gmail.com",
+      "phone": "7865432111",
+      "country": "india",
+      "address": "1 Flat-2",
+      "gender": "male"
+    },
+    {
+      "id": "Goutam",
+      "name": "Goutam Bhowmik",
+      "password": "Goutam1234",
+      "email": "sneha@gmail.com",
+      "phone": "9890812234",
+      "country": "usa",
+      "address": "Virginia-123",
+      "gender": "male"
+    }
+  ],
+  "status":[
+    {
+      "id": "1",
+      "vendor": "Rishiraj Bhowmik",
+      "date":"12/10/2023",
+      "status": "Shipped"
+      
+    },
+    {
+      "id": "2",
+      "vendor": "ABC",
+      "date":"13/10/2023",
+      "status": "Pending"
+      
+    },
+    {
+      "id": "3",
+      "vendor": "ABC",
+      "date":"13/10/2023",
+      "status": "Pending"
+      
+    },
+    {
+      "id": "4",
+      "vendor": "ABC",
+      "date":"13/10/2023",
+      "status": "Pending"
+      
+    },
+    {
+      "id": "5",
+      "vendor": "ABC",
+      "date":"13/10/2023",
+      "status": "Pending"
+      
+    },
+    {
+      "id": "6",
+      "vendor": "ABC",
+      "date":"13/10/2023",
+      "status": "Pending"
+      
+    },
+    {
+      "id": "7",
+      "vendor": "ABC",
+      "date":"13/10/2023",
+      "status": "Pending"
+      
+    },
+    {
+      "id": "8",
+      "vendor": "ABC",
+      "date":"13/10/2023",
+      "status": "Pending"
+      
+    },
+    {
+      "id": "9",
+      "vendor": "ABC",
+      "date":"13/10/2023",
+      "status": "Pending"
+      
+    },
+    {
+      "id": "10",
+      "vendor": "ABC",
+      "date":"13/10/2023",
+      "status": "Pending"
+      
+    },
+    {
+      "id": "11",
+      "vendor": "ABC",
+      "date":"13/10/2023",
+      "status": "Pending"
+      
+    },
+    {
+      "id": "12",
+      "vendor": "ABC",
+      "date":"13/10/2023",
+      "status": "Pending"
+      
+    },
+    {
+      "id": "13",
+      "vendor": "ABC",
+      "date":"13/10/2023",
+      "status": "Pending"
+      
+    },
+    {
+      "id": "14",
+      "vendor": "ABC",
+      "date":"13/10/2023",
+      "status": "Pending"
+      
+    },
+    {
+      "id": "15",
+      "vendor": "CDC",
+      "date":"14/10/2023",
+      "status": "Shipped"
+      
+    }
+  ]
+}
